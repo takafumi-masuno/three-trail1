@@ -105,9 +105,9 @@ function init() {
 
   // KV背景の画像切り替え
   const backgrounds = [
-    "./img/img_01.jpg",
-    "./img/img_02.jpg",
-    "./img/img_03.jpg",
+    "../img/img_01.jpg",
+    "../img/img_02.jpg",
+    "../img/img_03.jpg",
   ];
   const kvElement = document.querySelector(".kv-block"); //HTMLののid
 
